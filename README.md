@@ -101,7 +101,7 @@ Diabetes-Prediction/
 <img src="images/non-diabetic1-1.png" width="700"/>
 
 ---
-# [TL;DR...click here😄] (https://diabetespredictionappml.streamlit.app)
+# [TL;DR...click here😄](https://diabetespredictionappml.streamlit.app)
 
 > Built with ❤️ using [Streamlit](https://streamlit.io)  
 > Machine Learning | Author: [<u>Dhyey Savaliya</u>](https://www.linkedin.com/in/dhyey-savaliya-632bb4246/)
