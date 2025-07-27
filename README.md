@@ -85,7 +85,7 @@ Diabetes-Prediction/
 │   ├── diabetic1-1.png
 │   ├── non-diabetic1.png
 │   ├── non-diabetic1-1.png
-│   ├── train.png
+│   └── train.png
 └── README.md 
 ```
 ---
